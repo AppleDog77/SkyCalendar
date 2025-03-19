@@ -1,0 +1,71 @@
+charset,UTF-8
+
+//——— Basic information ———
+name,Sky Calendar
+craftman,Odie
+craftmanurl,https://ladybug-lane.neocities.org/
+
+//——— Table ———
+table.left,70
+table.top,93
+table.right,326
+table.bottom,279
+
+//——— Numbers ———
+day.pos.x,9
+day.pos.y,3
+
+day.spacing,0
+saturday.spacing,0
+holiday.spacing,0
+
+year.pos.x,270
+year.pos.y,30
+
+year.spacing,0
+
+
+//——— Day markers ———
+today.pos.x,30
+today.pos.y,-2
+
+current.pos.x,0
+current.pos.y,-10
+
+
+//——— Event markers ———
+icon.left,1
+icon.top,21
+icon.right,41
+icon.bottom,41
+
+icon.width,10
+icon.height,10
+
+
+//——— Month names ———
+month.pos.x,60
+month.pos.y,30
+
+
+//——— Next & previous month buttons ———
+prev.left,133
+prev.top,286
+prev.right,177
+prev.bottom,333
+
+next.left,180
+next.top,287
+next.right,219
+next.bottom,332
+
+//——— Filenames ———
+day.filename,numbers/num
+
+year.filename,numbers/num
+month.filename,months/month
+
+today.filename,today
+current.filename,current
+
+background.filename,bg
